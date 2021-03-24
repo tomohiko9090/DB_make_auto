@@ -1,6 +1,7 @@
 # DB_make_auto.pyの説明
 ## 👉DB_make_auto.pyでできること
-Slackからエクスポートされたjsonファイルから「message_table.csv」「reaction_table.csv」「channel_table.csv」「user_table.csv」「join_table.csv」「statistics.csv」「network.png」の7種類のファイルを作成することができます。
+Slackからエクスポートされたjsonファイルから「message_table.csv」「reaction_table.csv」「channel_table.csv」「user_table.csv」「join_table.csv」「statistics.csv」「network.png」の7種類のファイルを作成することができます。  
+(network.pngでは、Slack内の人間関係を見ることができます！）  
 ## 👉DB_make_auto.pyの使い方
 使い方の動画↓  
 https://www.youtube.com/watch?v=wZYC4_E3i6c   
