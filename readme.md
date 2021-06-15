@@ -3,6 +3,7 @@
 Slackからエクスポートされたjsonファイルから「message_table.csv」「reaction_table.csv」「channel_table.csv」「user_table.csv」「join_table.csv」「statistics.csv」「network.png」の7種類のファイルを作成することができます。  
 (network.pngでは、Slack内の人間関係を可視化することができます！）  
 ## 👉データテーブルの設計
+設計書のリンク
 https://drawsql.app/--109/diagrams/database  
 
 ## 👉DB_make_auto.pyの使い方
